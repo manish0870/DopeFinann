@@ -64,6 +64,14 @@
         height: 250px;
         border-top: #333 solid 3px;
     }
+
+    #success {
+        height: 78vh;
+    }
+
+    #success h1 {
+        font-size: 3rem;
+    }
 }
 
 @media (max-height: 568px) {
@@ -73,5 +81,13 @@
 
     .lead {
         font-size: 1rem;
+    }
+
+    #success {
+        height: 66.5vh;
+    }
+
+    #success h1 {
+        font-size: 2.5rem;
     }
 }

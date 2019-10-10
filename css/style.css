@@ -247,3 +247,9 @@ a {
     flex-basis: 15rem;
     padding: 0.75rem 0;
 }
+
+/* Success Page */
+#success {
+    display: flex;
+    height: 79vh;
+}
