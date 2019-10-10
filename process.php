@@ -11,5 +11,5 @@
     //send email
     mail($admin_email, "New Form Submission", $message . ' - ' . $phone, "From:" . $email);
     
-    header('Location: success.html');
+    header('Location: https://manish0870.github.io/DopeFinann/success.html');
   }
